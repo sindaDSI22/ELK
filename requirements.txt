@@ -1,0 +1,10 @@
+Flask
+elasticsearch
+python-dotenv
+pytest
+pytest-flask
+gunicorn
+pymongo
+redis
+urllib3
+elastic-transport
